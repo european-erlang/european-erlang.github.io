@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="143.875mm"
+   height="11.535325mm"
+   viewBox="0 0 143.875 11.535325"
+   version="1.1"
+   id="svg4801"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="european-erlang-community.svg">
+  <defs
+     id="defs4795" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="266.17548"
+     inkscape:cy="58.75292"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-bottom="-0.1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     inkscape:window-width="1364"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4798">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.407738,-152.84305)">
+    <g
+       transform="translate(9.4494041,-53.69862)"
+       id="g972">
+      <rect
+         y="207.04167"
+         x="26.458334"
+         height="10.583333"
+         width="142.875"
+         id="rect964"
+         style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0111166,0.98900564)"
+         id="text962"
+         y="217.75117"
+         x="28.017235"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70098305px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Now;-inkscape-font-specification:Now;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="217.75117"
+           x="28.017235"
+           id="tspan960"
+           sodipodi:role="line">European Europe Community</tspan></text>
+    </g>
+  </g>
+</svg>
